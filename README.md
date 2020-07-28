@@ -40,4 +40,4 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/microsoftexcel.svg" alt="ms excel" width="20" height="20"/>
 <img align='right' src="https://komarev.com/ghpvc/?username=utshabkg" alt="utshabkg" /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utshabkg)](https://github.com/utshabkg/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utshabkg)](https://github.com/utshabkg/github-readme-stats) -->
