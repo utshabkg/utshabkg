@@ -38,6 +38,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/microsoftpowerpoint.svg" alt="ms powerpoint" width="20" height="20"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/microsoftexcel.svg" alt="ms excel" width="20" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeillustrator.svg" alt="Adobe Illustrator" width="20" height="20"/>
 <img align='right' src="https://komarev.com/ghpvc/?username=utshabkg" alt="utshabkg" /> </p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utshabkg)](https://github.com/utshabkg/github-readme-stats) -->
