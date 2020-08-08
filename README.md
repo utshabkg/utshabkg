@@ -2,11 +2,11 @@
 <hr>
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=utshabkg&show_icons=true"/>
 
-- I'm currently working as **Co-Founder** of <a href="https://code-studio-4.com/">Code Studio</a>
-- Studying at <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Techonology</a>
-- Ask me about any **Programming/Machine Learning/Tech**
-- Currently learning Machine Learning and [Image Segmenation](https://github.com/utshabkg/Image_Segmentation) with Python
-- I’m looking to collaborate on [Machine Learning Practices](https://github.com/utshabkg/ML_Competition-AND-Practice) and [Competitive Programming](https://github.com/utshabkg/Competitive_Contest_Problem_Solves)
+- I'm currently working as **Co-Founder** of <a href="https://code-studio-4.com/">Code Studio</a>.
+- Studying at <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Techonology</a>.
+- Ask me about **Programming/Machine Learning/Tech**.
+- Currently learning Machine Learning and [Image Segmenation](https://github.com/utshabkg/Image_Segmentation) with Python.
+- I’m looking to collaborate on [Machine Learning Practices](https://github.com/utshabkg/ML_Competition-AND-Practice) and [Competitive Programming](https://github.com/utshabkg/Competitive_Contest_Problem_Solves).
 - How to reach me: 
 <p align="center">
 <a href="https://linkedin.com/in/utshabkg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="utshabkg" height="30" width="30" />
@@ -26,7 +26,7 @@
     <a href="https://twitter.com/utshabkg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="utshabkg" height="30" width="30" />
     </a>
 </p>
-<p><b>To know more: </b><a href="https://utshabkg.github.io/">Website</a>, <a href="kumarutshab@gmail.com">Email</a></p>
+<p>Have a visit to my <b><a href="https://utshabkg.github.io/">Portfolio Website</a></b>. You can also <a href="kumarutshab@gmail.com">Email</a> me. Have a nice tour to my profiles.</p>
 <hr>
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="20" height="20"/><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tensorflow.svg" alt="tf" width="20" height="20"/>
