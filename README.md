@@ -28,25 +28,24 @@
 </p>
 <p>Have a visit to my <b><a href="https://utshabkg.github.io/">Portfolio Website</a></b>. You can also <a href="kumarutshab@gmail.com">Email</a> me. Have a nice tour to my profiles.</p>
 <hr>
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="20" height="20" title='Python'/><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20" title='C'/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tf" width="20" height="20" title='Tensorflow'/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="20" height="20" title='Pytorch'/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20" title='HTML5'/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20" title='CSS3'/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20" title='Bootstrap'/>
-  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django" width="30" height="20" title='Django'/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20" title='Linux'/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" alt="ms powerpoint" width="22" height="22" title='Microsoft Powerpoint'/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Microsoft_Excel_Logo.svg" alt="ms excel" width="20" height="20" title='Microsoft Excel'/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Adobe_Illustrator_Icon_%28CS6%29.svg" alt="Adobe Illustrator" width="20" height="20" title='Adobe Illustrator'/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Adobe_Premiere_Pro_Logo.svg" alt="Adobe Premiere Pro" width="20" height="20" title='Adobe Premiere Pro'/>
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="20" height="20" title='Python'/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20" title='C'/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tf" width="20" height="20" title='Tensorflow'/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="20" height="20" title='Pytorch'/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20" title='HTML5'/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20" title='CSS3'/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20" title='Bootstrap'/>
+    <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django" width="30" height="20" title='Django'/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20" title='Linux'/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" alt="ms powerpoint" width="22" height="22" title='Microsoft Powerpoint'/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Microsoft_Excel_Logo.svg" alt="ms excel" width="20" height="20" title='Microsoft Excel'/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Adobe_Illustrator_Icon_%28CS6%29.svg" alt="Adobe Illustrator" width="20" height="20" title='Adobe Illustrator'/>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Adobe_Premiere_Pro_Logo.svg" alt="Adobe Premiere Pro" width="20" height="20" title='Adobe Premiere Pro'/>
   <!--
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/microsoftpowerpoint.svg" alt="ms powerpoint" width="20" height="20" title='Microsoft Powerpoint'/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/microsoftexcel.svg" alt="ms excel" width="20" height="20" title='Microsoft Excel'/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeillustrator.svg" alt="Adobe Illustrator" width="20" height="20" title='Adobe Illustrator'/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobepremierepro.svg" alt="Adobe Premiere Pro" width="20" height="20" title='Adobe Illustrator'/>
--->
-
-<img align='right' src="https://komarev.com/ghpvc/?username=utshabkg" alt="utshabkg" /> </p>
+--><img align='right' src="https://komarev.com/ghpvc/?username=utshabkg" alt="utshabkg" /> </p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utshabkg)](https://github.com/utshabkg/github-readme-stats) -->
