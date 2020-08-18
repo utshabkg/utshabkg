@@ -9,24 +9,24 @@
 - I’m looking to collaborate on [Machine Learning Practices](https://github.com/utshabkg/ML_Competition-AND-Practice) and [Competitive Programming](https://github.com/utshabkg/Competitive_Contest_Problem_Solves).
 - How to reach me: 
 <p align="center">
-<a href="https://linkedin.com/in/utshabkg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="utshabkg" height="30" width="30" title='LinkedIn'/>
+<a href="https://linkedin.com/in/utshabkg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="utshabkg" height="30" width="30" title='LinkedIn'/>
     </a>
-    <a href="https://www.kaggle.com/utshabkumarghosh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="utshabkumarghosh" height="30" width="30" title='Kaggle'/>
+    <a href="https://www.kaggle.com/utshabkumarghosh" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="utshabkumarghosh" height="30" width="30" title='Kaggle'/>
     </a>
-    <a href="https://codeforces.com/profile/utshab_1603022" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="utshab_1603022" height="30" width="30" title='Codeforces'/>
+    <a href="https://codeforces.com/profile/utshab_1603022" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="utshab_1603022" height="30" width="30" title='Codeforces'/>
     </a>
-    <a href="https://www.hackerearth.com/@kumarutshab/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="kumarutshab" height="30" width="30" title='HackerEarth'/>
+    <a href="https://www.hackerearth.com/@kumarutshab/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="kumarutshab" height="30" width="30" title='HackerEarth'/>
     </a> 
-    <a href="https://stackoverflow.com/users/13785896/utshab-kumar-ghosh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13785896" height="30" width="30" title='Stack Overflow'/>
+    <a href="https://stackoverflow.com/users/13785896/utshab-kumar-ghosh" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13785896" height="30" width="30" title='Stack Overflow'/>
     </a>
-    <a href="https://facebook.com/utshabkg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="utshabkg" height="30" width="30" title='Facebook'/>
+    <a href="https://facebook.com/utshabkg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="utshabkg" height="30" width="30" title='Facebook'/>
     </a>
-    <a href="https://twitter.com/utshabkg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="utshabkg" height="30" width="30" title='Twitter'/>
+    <a href="https://twitter.com/utshabkg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="utshabkg" height="30" width="30" title='Twitter'/>
     </a>
-    <a href="https://instagram.com/utshabkg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="utshabkg" height="30" width="30" title='Instagram'/>
+    <a href="https://instagram.com/utshabkg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="utshabkg" height="30" width="30" title='Instagram'/>
     </a>
 </p>
-<p>Have a visit to my <b><a href="https://utshabkg.github.io/">Portfolio Website</a></b>. You can also <a href="kumarutshab@gmail.com">Email</a> me. Have a nice tour to my profiles.</p>
+<p>Have a visit to my <b><a href="https://utshabkg.github.io/" target="_blank">Portfolio Website</a></b>. You can also <a href="kumarutshab@gmail.com">Email</a> me. Have a nice tour to my profiles.</p>
 <hr>
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="20" height="20" title='Python'/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20" title='C'/>
