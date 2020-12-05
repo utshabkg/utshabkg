@@ -1,6 +1,6 @@
 ### Hey there! I'm Utshab Kumar Ghosh!
 <hr>
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=utshabkg&show_icons=true"/>
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=utshabkg&show_icons=true&theme=algolia"/>
 
 - I'm currently working as **Co-Founder** of <a href="https://code-studio-4.com/">Code Studio</a>.
 - Studying at <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Techonology</a>.
