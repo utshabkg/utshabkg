@@ -11,6 +11,8 @@
 <p align="center">
 <a href="https://linkedin.com/in/utshabkg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="utshabkg" height="30" width="30" title='LinkedIn'/>
     </a>
+    <a href="https://kumarutshab.medium.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="kumarutshab" height="30" width="30" title='Medium'/>
+    </a>
     <a href="https://www.kaggle.com/utshabkumarghosh" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="utshabkumarghosh" height="30" width="30" title='Kaggle'/>
     </a>
     <a href="https://codeforces.com/profile/utshab_1603022" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="utshab_1603022" height="30" width="30" title='Codeforces'/>
