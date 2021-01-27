@@ -30,19 +30,32 @@
 </p>
 <p>Have a visit to my <b><a href="https://utshabkg.github.io/" target="_blank">Portfolio Website</a></b>. You can also <a href="kumarutshab@gmail.com">Email</a> me. Have a nice tour to my profiles.</p>
 <hr>
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="20" height="20" title='Python'/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20" title='C'/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tf" width="20" height="20" title='Tensorflow'/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="20" height="20" title='Pytorch'/> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20" title='HTML5'/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20" title='CSS3'/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20" title='Bootstrap'/>
-    <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django" width="30" height="20" title='Django'/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20" title='Linux'/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" alt="ms powerpoint" width="22" height="22" title='Microsoft Powerpoint'/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Microsoft_Excel_Logo.svg" alt="ms excel" width="20" height="20" title='Microsoft Excel'/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Adobe_Illustrator_Icon_%28CS6%29.svg" alt="Adobe Illustrator" width="20" height="20" title='Adobe Illustrator'/>
-     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Adobe_Premiere_Pro_Logo.svg" alt="Adobe Premiere Pro" width="20" height="20" title='Adobe Premiere Pro'/>
+<p align="left">
+    <span class="iconify" data-icon="logos-python" data-inline="false" alt="Python" title="Python" width="24"
+            height="24"></span>
+    <span class="iconify" data-icon="logos-c" data-inline="false" alt="C" title="C" width="24"
+        height="24"></span>
+    <span class="iconify" data-icon="logos-tensorflow" data-inline="false" alt="Tensorflow"
+        title="TensorFlow" width="24" height="24"></span>
+    <span class="iconify" data-icon="logos-pytorch" data-inline="false" alt="Pytorch" title="PyTorch"
+        width="24" height="24"></span>
+    <span class="iconify" data-icon="logos:html-5" data-inline="false" alt="HTML5" title="HTML5" width="24"
+        height="24"></span>
+    <span class="iconify" data-icon="vscode-icons:file-type-css" data-inline="false" alt="CSS" title="CSS" width="24"
+        height="24"></span>
+    <span class="iconify" data-icon="logos-bootstrap" data-inline="false" alt="Bootstrap" title="Bootstrap" width="24"
+        height="24"></span>
+    <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django"
+        title="django" width="36" height="36" />
+    <span class="iconify" data-icon="logos:linux-tux" data-inline="false" alt="Linux" title="Linux" width="24"
+        height="24"></span>
+    <img src="images/powerpoint.svg" alt="ms powerpoint" title="Microsoft PowerPoint" width="24"
+        height="24" />
+    <img src="images/excel.svg" alt="ms excel" title="Microsoft Excel" width="24" height="24" />
+    <img src="images/illustrator.svg" alt="Adobe Illustrator" title="Adobe Illustrator" width="24"
+        height="24" />
+    <img src="images/premiere.svg" alt="Adobe Premiere Pro" title="Adobe Premiere Pro" width="24"
+        height="24" />
   <!--
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/microsoftpowerpoint.svg" alt="ms powerpoint" width="20" height="20" title='Microsoft Powerpoint'/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/microsoftexcel.svg" alt="ms excel" width="20" height="20" title='Microsoft Excel'/>
