@@ -40,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg" alt="Bootstrap" width="25" height="25" title='Bootstrap'/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg" alt="Django" width="25" height="25" title='Django'/>
   &nbsp;  &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="Tensorflow" width="25" height="25" title='Tensorflow'/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tensorflow.svg" alt="Tensorflow" width="25" height="25" title='Tensorflow'/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg" alt="Linux" width="25" height="25" title='Linux'/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" alt="Git" width="25" height="25" title='Git'/>
   &nbsp;  &nbsp;
