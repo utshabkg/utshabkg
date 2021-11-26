@@ -3,7 +3,7 @@
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=utshabkg&show_icons=true&theme=algolia"/>
 
 - I'm currently working as **Co-Founder** of <a href="https://code-studio-4.com/">Code Studio</a>.
-- Machine Learning Engineering Intern at <a href="http://mymedicalhub.com/">MyMedicalHub</a>.
+- Research Assistant at <a href="http://mymedicalhub.com/">MyMedicalHub</a>.
 - Studying at <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Techonology</a>.
 - Ask me about **Programming/Machine Learning/Tech**.
 - I’m looking to collaborate on [Machine Learning Practices](https://github.com/utshabkg/ML_Competition-AND-Practice) and [Competitive Programming](https://github.com/utshabkg/Competitive_Contest_Problem_Solves).
