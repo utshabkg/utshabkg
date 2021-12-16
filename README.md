@@ -11,6 +11,10 @@
 <p align="center">
 <a href="https://linkedin.com/in/utshabkg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="utshabkg" height="30" width="30" title='LinkedIn'/>
     </a>
+    <a href="https://scholar.google.com/citations?user=fw5WHucAAAAJ&hl=en" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="Utshab Kumar Ghosh" height="30" width="30" title='Google Scholar'></span>
+    </a>
+    <a href="https://www.researchgate.net/profile/Utshab-Ghosh" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg" alt="Utshab Kumar Ghosh" height="30" width="30" title='ResearchGate'></span>
+    </a>
     <a href="https://utshabkg.medium.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="kumarutshab" height="30" width="30" title='Medium'/>
     </a>
     <a href="https://www.kaggle.com/utshabkumarghosh" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="utshabkumarghosh" height="30" width="30" title='Kaggle'/>
