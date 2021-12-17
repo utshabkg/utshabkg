@@ -51,7 +51,7 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/microsoftpowerpoint.svg" alt="MS Powerpoint" width="25" height="25" title='Microsoft Powerpoint'/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/microsoftexcel.svg" alt="MS Excel" width="25" height="25" title='Microsoft Excel'/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeillustrator.svg" alt="Adobe Illustrator" width="25" height="25" title='Adobe Illustrator'/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobepremierepro.svg" alt="Adobe Premiere Pro" width="25" height="25" title='Adobe Illustrator'/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobepremierepro.svg" alt="Adobe Premiere Pro" width="25" height="25" title='Adobe Premiere Pro'/>
 <img align='right' src="https://komarev.com/ghpvc/?username=utshabkg" alt="utshabkg" /> </p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utshabkg)](https://github.com/utshabkg/github-readme-stats) -->
