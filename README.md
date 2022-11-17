@@ -2,11 +2,11 @@
 <hr>
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=utshabkg&show_icons=true&theme=algolia"/>
 
-- I'm currently working as a Research Assistant at <a href="http://mymedicalhub.com/">MyMedicalHub</a>.
+- Graduate of B.Sc. in Computer Science & Engineering from <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Techonology</a>.
+- Ask me about **Data Science/Machine Learning/Programming/Tech**.
 - **Co-Founder** of <a href="https://code-studio-4.com/">Code Studio</a>.
-- Studying at <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Techonology</a>.
-- Ask me about **Programming/Machine Learning/Tech**.
-- I’m looking to collaborate on [Machine Learning Practices](https://github.com/utshabkg/ML_Competition-AND-Practice) and [Competitive Programming](https://github.com/utshabkg/Competitive_Contest_Problem_Solves).
+- I was a Research Assistant at <a href="http://mymedicalhub.com/">MyMedicalHub</a> for 2 years.
+- I’m looking to collaborate on [Data Science & Machine Learning Perks](https://github.com/utshabkg/ML_Competition-AND-Practice) and [Competitive Programming](https://github.com/utshabkg/Competitive_Contest_Problem_Solves).
 - How to reach me: 
 <p align="center">
 <a href="https://linkedin.com/in/utshabkg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="utshabkg" height="30" width="30" title='LinkedIn'/>
