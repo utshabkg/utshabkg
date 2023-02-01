@@ -2,10 +2,11 @@
 <hr>
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=utshabkg&show_icons=true&theme=algolia"/>
 
-- Graduate of B.Sc. in Computer Science & Engineering from <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Techonology</a>.
+- **Co-Founder**, <a href="https://code-studio-4.com/">Code Studio</a>.
+- **Software Engineer**, [Nascenia Ltd.](https://nascenia.com/)
+- **Ex Research Assistant**, <a href="http://mymedicalhub.com/">MyMedicalHub</a>.
+- Graduate in B.Sc. in **Computer Science & Engineering**, <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Techonology</a>.
 - Ask me about **Data Science/Machine Learning/ Programming/Tech**.
-- **Co-Founder** of <a href="https://code-studio-4.com/">Code Studio</a>.
-- I was a Research Assistant at <a href="http://mymedicalhub.com/">MyMedicalHub</a> for 2 years.
 - I’m looking to collaborate on [Data Science & Machine Learning Perks](https://github.com/utshabkg/ML_Competition-AND-Practice) and [Competitive Programming](https://github.com/utshabkg/Competitive_Contest_Problem_Solves).
 - How to reach me: 
 <p align="center">
