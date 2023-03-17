@@ -7,8 +7,8 @@
 - **Ex Research Assistant**, <a href="http://mymedicalhub.com/">MyMedicalHub</a>.
 - **Mentor** of Machine Learning and Data Science in <a href="https://site.code-studio4.com/">Code Studio</a> Academy.
 - Graduate in B.Sc. in **Computer Science & Engineering**, <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Techonology</a>.
-- Ask me about **Data Science/Machine Learning/Programming/Web Dev/Tech**.
-- I’m looking to collaborate on [Data Science & Machine Learning Perks](https://github.com/utshabkg/ML_Competition-AND-Practice) and [Competitive Programming](https://github.com/utshabkg/Competitive_Contest_Problem_Solves).
+- Ask me about **Data Science/ Machine Learning/ Programming/ Web Dev/ Tech**.
+- I’m looking to collaborate on [Data Science & Machine Learning Perks](https://github.com/utshabkg/ML_Competition-AND-Practice) and Web Development.
 - How to reach me: 
 <p align="center">
 <a href="https://linkedin.com/in/utshabkg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="utshabkg" height="30" width="30" title='LinkedIn'/>
