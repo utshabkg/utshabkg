@@ -2,7 +2,6 @@
 <hr>
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=utshabkg&show_icons=true&theme=algolia"/>
 
-- **Co-Founder**, <a href="https://site.code-studio4.com/">Code Studio</a>.
 - **Software Engineer**, [Nascenia Ltd.](https://nascenia.com/)
 - **Ex Research Assistant**, <a href="http://mymedicalhub.com/">MyMedicalHub</a>.
 - **Mentor** of Machine Learning and Data Science in <a href="https://site.code-studio4.com/">Code Studio</a> Academy.
