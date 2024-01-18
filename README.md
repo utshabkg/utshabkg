@@ -1,6 +1,6 @@
 ### Hey there! I'm Utshab Kumar Ghosh!
 <hr>
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=utshabkg&show_icons=true&theme=algolia"/>
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=utshabkg&show_icons=true&theme=algolia&hide=contribs,prs,issues&show=prs_merged_percentage"/>
 
 - **Software Engineer**, [Nascenia Ltd.](https://nascenia.com/)
 - **Ex Research Assistant**, <a href="http://mymedicalhub.com/">MyMedicalHub</a>.
@@ -8,6 +8,7 @@
 - Graduate in B.Sc. in **Computer Science & Engineering**, <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Techonology</a>.
 - Ask me about **Data Science/ Machine Learning/ Programming/ Web Dev/ Tech**.
 - I’m looking to collaborate on [Data Science & Machine Learning Perks](https://github.com/utshabkg/ML_Competition-AND-Practice) and Web Development.
+  <img align="right" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utshabkg&layout=donut"/>
 - How to reach me: 
 <p align="center">
 <a href="https://linkedin.com/in/utshabkg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="utshabkg" height="30" width="30" title='LinkedIn'/>
